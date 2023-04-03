@@ -1,0 +1,15 @@
+body {
+    font-size: 1.5em;
+    letter-spacing: 1px;
+}
+
+.typed-text {
+    color: #707070;
+}
+.current-letter {
+    background-color: #80ffff;
+    border-radius: 20%;
+}
+.to-type-text {
+    color: #000000;
+}
