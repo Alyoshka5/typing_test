@@ -36,6 +36,7 @@ function TextDisplay({ text }) {
 
   return (
     <div>
+      <span>Hi there!</span>
       <span className='typed-text'>{typingText.typed}</span>
       <span className='current-letter'>{typingText.currentLetter}</span>
       <span className='to-type-text'>{typingText.toType}</span>
